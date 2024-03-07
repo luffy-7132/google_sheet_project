@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028719079793",
+    "project_id": "main-cedar-416307",
+    "storage_bucket": "main-cedar-416307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028719079793:android:9824a6c4013558090106d0",
+        "android_client_info": {
+          "package_name": "com.example.google_sheet_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJy6a1A3R9k5G7DBJakh4GYAXXRShmt8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
